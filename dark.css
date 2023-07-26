@@ -715,10 +715,6 @@ span:not(.spinner-item) {
 .theme-dark {
   --cl-appearance: "Dark";
 }
-#app-mount .info-3pQQBb .line-18uChy:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
-  display: block;
-}
 /*custom bd window edit*/
 .floating-window {
   border-radius: 5px !important;
